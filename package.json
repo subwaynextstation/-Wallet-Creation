@@ -1,5 +1,5 @@
 {
-  "name": "sub-wallet_creation",
+  "name": "sub-wallet-creation",
   "version": "0.0.1",
   "description": "Simple BIP39 Ethereum Address Generator",
   "author": "subwaynextstation <subwaynextstation@gmail.com>",
