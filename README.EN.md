@@ -1,5 +1,5 @@
 # Ethereum address wallet random generator
-[English](https://github.com/subwaynextstation/Wallet-Creation/blob/main/README.md) | Simplified Chinese
+English | [简体中文](https://github.com/subwaynextstation/Wallet-Creation/blob/main/README.md)
 
 The BIP39 Ethereum address wallet generator can specify the number of digits and use regular patterns (such as ending in 888) to generate beautiful numbers, mnemonic words and private keys.
 
