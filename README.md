@@ -1,5 +1,5 @@
 # 以太坊地址钱包随机生成器
-[English](https://github.com/BitBitKing/Wallet-Generate/blob/main/README.EN.md) | 简体中文
+[English](https://github.com/subwaynextstation/Wallet-Creation/blob/main/README.EN.md) | 简体中文
 
 BIP39以太坊地址钱包生成器，可以指定位数和利用正则（比如结尾888）来生成靓号、助记词和私钥。
 
