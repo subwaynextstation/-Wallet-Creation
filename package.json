@@ -1,1 +1,30 @@
-
+{
+  "name": "sub-wallet_creation",
+  "version": "0.0.1",
+  "description": "Simple BIP39 Ethereum Address Generator",
+  "author": "subwaynextstation <subwaynextstation@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node wallet-generate.js"
+  },
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.5.0",
+    "fs": "^0.0.1-security",
+    "web3": "^4.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subwaynextstation/Wallet-Creation.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "generate",
+    "wallet",
+    "eip",
+    "Ethereum",
+    "eth"
+  ],
+  "homepage": ""
+}
