@@ -25,6 +25,7 @@ BIP39以太坊地址钱包生成器，可以指定位数和利用正则（比如
 ## 许可证
 本项目采用 MIT 许可证。
 
+## 贡献者
 <a href="https://github.com/subwaynextstation/Wallet-Creation/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=yuanlaishiali/Wallet-Creation" />
 </a>
