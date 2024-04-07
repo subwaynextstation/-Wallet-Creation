@@ -19,6 +19,7 @@ function generateEthAddress(privateKey) {
   return wallet.address;
 }
 
+
 // 检查是否以 "888" 结尾
 function endsWith888(input) {
   return /88$/.test(input);
